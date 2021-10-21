@@ -10,8 +10,7 @@ local Dragable = Instance.new("Frame")
 
 --Properties:
 
-ScreenGui.Parent = game.CoreGui
-
+ScreenGui.Parent = game.StarterGui
 main.Name = "main"
 main.Parent = ScreenGui
 main.BackgroundColor3 = Color3.fromRGB(40, 40, 40)

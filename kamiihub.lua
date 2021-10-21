@@ -1,4 +1,4 @@
-`local ScreenGui = Instance.new("ScreenGui")
+local ScreenGui = Instance.new("ScreenGui")
 local main = Instance.new("Frame")
 local TextLabel = Instance.new("TextLabel")
 local AutoBounty = Instance.new("TextButton")
@@ -84,4 +84,4 @@ Discord.Size = UDim2.new(0, 115, 0, 33)
 Discord.Font = Enum.Font.SourceSans
 Discord.Text = "Copy Discord Server"
 Discord.TextColor3 = Color3.fromRGB(0, 0, 0)
-Discord.TextSize = 14.000`
+Discord.TextSize = 14.000

@@ -1,1 +1,87 @@
-var f=Q;function Q(i,a){var z=C();return Q=function(V,S){V=V-0x143;var g=z[V];return g;},Q(i,a);}(function(i,a){var g=Q,z=i();while(!![]){try{var V=parseInt(g(0x149))/0x1*(parseInt(g(0x14a))/0x2)+-parseInt(g(0x144))/0x3+-parseInt(g(0x148))/0x4+-parseInt(g(0x14e))/0x5*(parseInt(g(0x147))/0x6)+-parseInt(g(0x14b))/0x7+-parseInt(g(0x14c))/0x8*(parseInt(g(0x14d))/0x9)+parseInt(g(0x145))/0xa*(parseInt(g(0x143))/0xb);if(V===a)break;else z['push'](z['shift']());}catch(S){z['push'](z['shift']());}}}(C,0x634f1),f(0x146));function C(){var A=['365004VpFaxR','145UXxDGw','11DXIemV','1574148ovKKAM','26940490ASpUpK','local\x20ScreenGui\x20=\x20Instance.new(\x22ScreenGui\x22)\x0alocal\x20main\x20=\x20Instance.new(\x22Frame\x22)\x0alocal\x20TextLabel\x20=\x20Instance.new(\x22TextLabel\x22)\x0alocal\x20AutoBounty\x20=\x20Instance.new(\x22TextButton\x22)\x0alocal\x20Teleport\x20=\x20Instance.new(\x22TextButton\x22)\x0alocal\x20Autofarm\x20=\x20Instance.new(\x22TextButton\x22)\x0alocal\x20GodMode\x20=\x20Instance.new(\x22TextButton\x22)\x0alocal\x20Discord\x20=\x20Instance.new(\x22TextButton\x22)\x0a\x0a--Properties:\x0a\x0aScreenGui.Parent\x20=\x20game.CoreGui\x0a\x0amain.Name\x20=\x20\x22main\x22\x0amain.Parent\x20=\x20ScreenGui\x0amain.BackgroundColor3\x20=\x20Color3.fromRGB(40,\x2040,\x2040)\x0amain.Position\x20=\x20UDim2.new(0.28010568,\x200,\x200.196909979,\x200)\x0amain.Size\x20=\x20UDim2.new(0,\x20448,\x200,\x20269)\x0amain.Active\x20=\x20true\x0amain.Dragable\x20=\x20true\x0a\x0aTextLabel.Parent\x20=\x20main\x0aTextLabel.BackgroundColor3\x20=\x20Color3.fromRGB(91,\x2091,\x2091)\x0aTextLabel.Size\x20=\x20UDim2.new(0,\x20448,\x200,\x2051)\x0aTextLabel.Font\x20=\x20Enum.Font.SourceSans\x0aTextLabel.Text\x20=\x20\x22Kamii\x20Hub\x22\x0aTextLabel.TextColor3\x20=\x20Color3.fromRGB(0,\x200,\x200)\x0aTextLabel.TextSize\x20=\x2027.000\x0a\x0aAutoBounty.Name\x20=\x20\x22Auto\x20Bounty\x22\x0aAutoBounty.Parent\x20=\x20main\x0aAutoBounty.BackgroundColor3\x20=\x20Color3.fromRGB(255,\x20255,\x20255)\x0aAutoBounty.Position\x20=\x20UDim2.new(0,\x200,\x200.211895913,\x200)\x0aAutoBounty.Size\x20=\x20UDim2.new(0,\x20113,\x200,\x2084)\x0aAutoBounty.Font\x20=\x20Enum.Font.SourceSans\x0aAutoBounty.Text\x20=\x20\x22Auto\x20bounty\x22\x0aAutoBounty.TextColor3\x20=\x20Color3.fromRGB(0,\x200,\x200)\x0aAutoBounty.TextSize\x20=\x2014.000\x0aAutoBounty.MouseButton1Down:connect(function()\x0a\x20\x20\x20\x20loadstring(game:HttpGet(\x22https://raw.githubusercontent.com/NightsTimeZ/Night_Script/main/BloxFruit.lua\x22))()\x0aend)\x0a\x0aTeleport.Name\x20=\x20\x22Teleport\x22\x0aTeleport.Parent\x20=\x20main\x0aTeleport.BackgroundColor3\x20=\x20Color3.fromRGB(255,\x20255,\x20255)\x0aTeleport.Position\x20=\x20UDim2.new(0,\x200,\x200.661710024,\x200)\x0aTeleport.Size\x20=\x20UDim2.new(0,\x20113,\x200,\x2091)\x0aTeleport.Font\x20=\x20Enum.Font.SourceSans\x0aTeleport.Text\x20=\x20\x22Teleport\x22\x0aTeleport.TextColor3\x20=\x20Color3.fromRGB(0,\x200,\x200)\x0aTeleport.TextSize\x20=\x2014.000\x0aTeleport.MouseButton1Down:connect(function()\x0a\x20\x20\x20\x20loadstring(game:HttpGet(\x22https://raw.githubusercontent.com/DookDekDEE/ALLFREE/main/newhyperx.lua\x22))()\x0aend)\x0a\x0aAutofarm.Name\x20=\x20\x22Auto\x20farm\x22\x0aAutofarm.Parent\x20=\x20main\x0aAutofarm.BackgroundColor3\x20=\x20Color3.fromRGB(255,\x20255,\x20255)\x0aAutofarm.Position\x20=\x20UDim2.new(0.723214269,\x200,\x200.211895913,\x200)\x0aAutofarm.Size\x20=\x20UDim2.new(0,\x20124,\x200,\x2084)\x0aAutofarm.Font\x20=\x20Enum.Font.SourceSans\x0aAutofarm.Text\x20=\x20\x22Auto\x20Farm\x22\x0aAutofarm.TextColor3\x20=\x20Color3.fromRGB(0,\x200,\x200)\x0aAutofarm.TextSize\x20=\x2014.000\x0aTeleport.MouseButton1Down:connect(function()\x0a\x20\x20\x20\x20loadstring(game:HttpGet(\x22https://raw.githubusercontent.com/DookDekDEE/ALLFREE/main/newhyperx.lua\x22))()\x0aend)\x0a\x0aGodMode.Name\x20=\x20\x22God\x20Mode\x22\x0aGodMode.Parent\x20=\x20main\x0aGodMode.BackgroundColor3\x20=\x20Color3.fromRGB(255,\x20255,\x20255)\x0aGodMode.Position\x20=\x20UDim2.new(0.723214269,\x200,\x200.661710024,\x200)\x0aGodMode.Size\x20=\x20UDim2.new(0,\x20124,\x200,\x2091)\x0aGodMode.Font\x20=\x20Enum.Font.SourceSans\x0aGodMode.Text\x20=\x20\x22Jesus\x20Mode\x22\x0aGodMode.TextColor3\x20=\x20Color3.fromRGB(0,\x200,\x200)\x0aGodMode.TextSize\x20=\x2014.000\x0a\x0aDiscord.Name\x20=\x20\x22Discord\x22\x0aDiscord.Parent\x20=\x20main\x0aDiscord.BackgroundColor3\x20=\x20Color3.fromRGB(255,\x20255,\x20255)\x0aDiscord.Position\x20=\x20UDim2.new(0.368303567,\x200,\x200.498141259,\x200)\x0aDiscord.Size\x20=\x20UDim2.new(0,\x20115,\x200,\x2033)\x0aDiscord.Font\x20=\x20Enum.Font.SourceSans\x0aDiscord.Text\x20=\x20\x22Copy\x20Discord\x20Server\x22\x0aDiscord.TextColor3\x20=\x20Color3.fromRGB(0,\x200,\x200)\x0aDiscord.TextSize\x20=\x2014.000','81990VvdAdq','1335700koqDXY','1524CtHlLr','396LesyXo','4796470EFtunc','128GIiujn'];C=function(){return A;};return C();}
+`local ScreenGui = Instance.new("ScreenGui")
+local main = Instance.new("Frame")
+local TextLabel = Instance.new("TextLabel")
+local AutoBounty = Instance.new("TextButton")
+local Teleport = Instance.new("TextButton")
+local Autofarm = Instance.new("TextButton")
+local GodMode = Instance.new("TextButton")
+local Discord = Instance.new("TextButton")
+
+--Properties:
+
+ScreenGui.Parent = game.CoreGui
+
+main.Name = "main"
+main.Parent = ScreenGui
+main.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
+main.Position = UDim2.new(0.28010568, 0, 0.196909979, 0)
+main.Size = UDim2.new(0, 448, 0, 269)
+main.Active = true
+main.Dragable = true
+
+TextLabel.Parent = main
+TextLabel.BackgroundColor3 = Color3.fromRGB(91, 91, 91)
+TextLabel.Size = UDim2.new(0, 448, 0, 51)
+TextLabel.Font = Enum.Font.SourceSans
+TextLabel.Text = "Kamii Hub"
+TextLabel.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel.TextSize = 27.000
+
+AutoBounty.Name = "Auto Bounty"
+AutoBounty.Parent = main
+AutoBounty.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+AutoBounty.Position = UDim2.new(0, 0, 0.211895913, 0)
+AutoBounty.Size = UDim2.new(0, 113, 0, 84)
+AutoBounty.Font = Enum.Font.SourceSans
+AutoBounty.Text = "Auto bounty"
+AutoBounty.TextColor3 = Color3.fromRGB(0, 0, 0)
+AutoBounty.TextSize = 14.000
+AutoBounty.MouseButton1Down:connect(function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/NightsTimeZ/Night_Script/main/BloxFruit.lua"))()
+end)
+
+Teleport.Name = "Teleport"
+Teleport.Parent = main
+Teleport.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Teleport.Position = UDim2.new(0, 0, 0.661710024, 0)
+Teleport.Size = UDim2.new(0, 113, 0, 91)
+Teleport.Font = Enum.Font.SourceSans
+Teleport.Text = "Teleport"
+Teleport.TextColor3 = Color3.fromRGB(0, 0, 0)
+Teleport.TextSize = 14.000
+Teleport.MouseButton1Down:connect(function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/DookDekDEE/ALLFREE/main/newhyperx.lua"))()
+end)
+
+Autofarm.Name = "Auto farm"
+Autofarm.Parent = main
+Autofarm.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Autofarm.Position = UDim2.new(0.723214269, 0, 0.211895913, 0)
+Autofarm.Size = UDim2.new(0, 124, 0, 84)
+Autofarm.Font = Enum.Font.SourceSans
+Autofarm.Text = "Auto Farm"
+Autofarm.TextColor3 = Color3.fromRGB(0, 0, 0)
+Autofarm.TextSize = 14.000
+Teleport.MouseButton1Down:connect(function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/DookDekDEE/ALLFREE/main/newhyperx.lua"))()
+end)
+
+GodMode.Name = "God Mode"
+GodMode.Parent = main
+GodMode.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+GodMode.Position = UDim2.new(0.723214269, 0, 0.661710024, 0)
+GodMode.Size = UDim2.new(0, 124, 0, 91)
+GodMode.Font = Enum.Font.SourceSans
+GodMode.Text = "Jesus Mode"
+GodMode.TextColor3 = Color3.fromRGB(0, 0, 0)
+GodMode.TextSize = 14.000
+
+Discord.Name = "Discord"
+Discord.Parent = main
+Discord.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Discord.Position = UDim2.new(0.368303567, 0, 0.498141259, 0)
+Discord.Size = UDim2.new(0, 115, 0, 33)
+Discord.Font = Enum.Font.SourceSans
+Discord.Text = "Copy Discord Server"
+Discord.TextColor3 = Color3.fromRGB(0, 0, 0)
+Discord.TextSize = 14.000`

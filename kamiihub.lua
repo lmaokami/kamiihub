@@ -6,10 +6,11 @@ local Teleport = Instance.new("TextButton")
 local Autofarm = Instance.new("TextButton")
 local GodMode = Instance.new("TextButton")
 local Discord = Instance.new("TextButton")
+local Dragable = Instance.new("Frame")
 
 --Properties:
 
-ScreenGui.Parent = game.StarterGui
+ScreenGui.Parent = game.CoreGui
 
 main.Name = "main"
 main.Parent = ScreenGui

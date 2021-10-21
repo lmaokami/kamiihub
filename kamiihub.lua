@@ -9,7 +9,7 @@ local Discord = Instance.new("TextButton")
 
 --Properties:
 
-ScreenGui.Parent = game.CoreGui
+ScreenGui.Parent = game.StarterGui
 
 main.Name = "main"
 main.Parent = ScreenGui
@@ -37,7 +37,7 @@ AutoBounty.Text = "Auto bounty"
 AutoBounty.TextColor3 = Color3.fromRGB(0, 0, 0)
 AutoBounty.TextSize = 14.000
 AutoBounty.MouseButton1Down:connect(function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/NightsTimeZ/Night_Script/main/BloxFruit.lua"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/NightsTimeZ/Night_Script/main/BloxFruit.lua"))()
 end)
 
 Teleport.Name = "Teleport"
@@ -50,7 +50,7 @@ Teleport.Text = "Teleport"
 Teleport.TextColor3 = Color3.fromRGB(0, 0, 0)
 Teleport.TextSize = 14.000
 Teleport.MouseButton1Down:connect(function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/DookDekDEE/ALLFREE/main/newhyperx.lua"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/DookDekDEE/ALLFREE/main/newhyperx.lua"))()
 end)
 
 Autofarm.Name = "Auto farm"
@@ -63,7 +63,7 @@ Autofarm.Text = "Auto Farm"
 Autofarm.TextColor3 = Color3.fromRGB(0, 0, 0)
 Autofarm.TextSize = 14.000
 Teleport.MouseButton1Down:connect(function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/DookDekDEE/ALLFREE/main/newhyperx.lua"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/DookDekDEE/ALLFREE/main/newhyperx.lua"))()
 end)
 
 GodMode.Name = "God Mode"
